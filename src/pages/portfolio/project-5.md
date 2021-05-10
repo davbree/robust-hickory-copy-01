@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Nature Magazine..
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/Homer-Simpson-at-work.jpg
